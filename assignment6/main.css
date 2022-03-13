@@ -1,0 +1,32 @@
+body
+{   
+    background: linear-gradient(90deg, rgb(255, 197, 121) 47%, rgb(255, 170, 59) 100%, rgb(255, 153, 0) 100%);
+}
+
+legend
+{
+    border: 2px solid rgb(27, 27, 27);
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 10px;
+}
+
+fieldset{
+    border: 2px solid rgb(27, 27, 27);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    margin: 15px 10px;
+    
+}
+
+form{
+    margin: 0% 30%;
+}
